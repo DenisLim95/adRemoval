@@ -9,3 +9,4 @@ Implementation of different methods to detect ads and logos, using video and aud
 - PyScene's Content Detector
 - Fourier Frequency Transform Analysis.
 
+Denis Lim, Kaixy Wang, James Maa
